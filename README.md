@@ -38,4 +38,4 @@ Thank you for your interest in our project!
 
 ---
 
-*Note: This README serves as a guide to the contents of the repository. Please refer to specific files for in-depth information and analysis.*
+*Note: This README serves as a guide to the contents of the repository. Please refer to specific files for in-depth information and analysis. Thanks! *
