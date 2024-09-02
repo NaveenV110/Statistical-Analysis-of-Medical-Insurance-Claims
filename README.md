@@ -24,7 +24,7 @@ Team Members:
   
 ## Project Overview
 
-In this project, our goal is to uncover and analyze the determinants that contribute to the variability in insurance costs across the United States healthcare landscape. The Jupyter Notebook (`analysis_code.ipynb`) provides a detailed exploration of our data, preprocessing steps, analysis techniques, and results.
+In this final project, our goal is to uncover and analyze the determinants that contribute to the variability in insurance costs across the United States healthcare landscape. The Jupyter Notebook (`analysis_code.ipynb`) provides a detailed exploration of our data, preprocessing steps, analysis techniques, and results.
 
 The final report (`final_report.pdf`) offers an in-depth narrative of our investigative approach, the methodologies employed, and the key determinants we identified that influence insurance costs. 
 
